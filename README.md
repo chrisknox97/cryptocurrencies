@@ -1,7 +1,7 @@
-#Unsupervised Machine Learning & Cryptocurrencies
+# Unsupervised Machine Learning & Cryptocurrencies
 
-##Overview of Analysis
+## Overview of Analysis:
 
-##Results
+### To utilize Machine Learning Algorithms (and visually display their associated data through hvplot & plotly's scatter and cluster plots) to analyze frequently traded cryptocurrencies to determine which offer viable investments. 
 
-##Summary
+
